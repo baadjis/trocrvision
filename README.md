@@ -2,6 +2,10 @@
 
 This is a simple implementation of trocr (transformer based ocr) allowing you to retrieve handwritten and newpaper text
 
+to read more about trocr:
+
+https://arxiv.org/abs/2109.10282
+
 ### Installation
 
 
